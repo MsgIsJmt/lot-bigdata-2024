@@ -45,6 +45,10 @@
     - [맷플롭립](https://github.com/MsgIsJmt/lot-bigdata-2024/blob/main/day01/bda03_matplotlib_basic.ipynb)
 
 ## 2일차
+- 빅데이터 학습
+    - 기초학습, 크롤링 관련
+    - [뷰티플수프]()
+    - [셀레니움] ()
 
 ## 3일차
 
